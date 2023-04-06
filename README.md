@@ -2,13 +2,16 @@
 ## <center>[404shamsnotfound@gmail.com](mailto:%20404shamsnotfound@gmail.com)  |  [linkedin.com/in/ahmedshamseldin](https://www.linkedin.com/in/ahmedshamseldin/)</center>
 ## <center>Summary</center>
 
- -  Senior Software Engineer with **6+ years** of experience and a Computer-Science degree.
+ -  Senior Software Engineer with **7+ years** of experience and a Computer-Science degree.
  -  Full-stack, Worked On The Back-end With Multiple Stacks Mainly **LAMP** ( **Linux , Apache , MySQL , PHP** ).
- -  Worked On The Front-end With **Vue** and **Angular** / **Typescript** .
+ -  Worked On The Front-end With **Vue** ,**React** and **Angular** / **Typescript** .
+ -  Worked also with **Laravel** , **Wordpress** , **Moodle** , **Symfony** and **CodeIgniter**.
+ -  Worked also with **NodeJs** , **ParseJS** , **Python** , **ExpressJS** and **Django**
+ -  Worked also With **MySQL** ,**SQL Server** , **MangoDB** and **PostgreSQL**
+ -  Worked also with **React Native** as **Mobile Development**
  -  Open and Used To Learning New Languages, Technologies, and Frameworks.
- -  Worked also with **Laravel** , **Wordpress** , **PostgreSQL**, and **Firebase**.
- -  Worked alse With Nodejs and ParseJS
- -  Worked On Blockchain ( HyperLedger Fabric ) 
+ -  Worked On **Blockchain** **HyperLedger Fabric** / **Ethereum Network**
+ -  Worked On **Cryptocurrencies** As Bitcoin , Ethereum and Their Families
 
 ## <center>Education</center>
 ### Faculty of Computers and Information - Cairo University, 2011 -   2015. 
@@ -128,7 +131,13 @@
 ### AI Learner
 **Scanning Images By Mobile and Learning From It For Helping LMS In Canada**
  - Developing Admin / Teacher / Student Mobile Application API's 
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30">&nbsp;&nbsp;  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30">&nbsp;&nbsp;  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> 
+  
+
+### Crypto-Currency
+**Working On Supporting Hot/Cold Wallets With Crypto-currencies**
+- Developing E-Wallet and Supporting Multi Crypto-currencies With their Families and Tokens 
+-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/461px-Bitcoin_logo.svg.png?20140331024457" width="100" height="30"> &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/384px-Ethereum_logo_2014.svg.png?20161015085252" width="20" height="30"> &nbsp;&nbsp;   
 
 ## <center> Personal Information</center>
 - Name: Ahmed Shams El-Deen.
